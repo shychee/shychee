@@ -1,5 +1,5 @@
 # Welcome to ShyChee's Github
-![github](https://img.shields.io/github/followers/shychee?logo=github&style=plastic)](https://github.com/alanhamlett?tab=followers)
+![github](https://img.shields.io/github/followers/shychee?logo=github&style=plastic)]
 ![](https://komarev.com/ghpvc/?username=shychee)
 ### Hi I'm Linqi Han([@Shychee](https://github.com/shychee)) 👋
 
